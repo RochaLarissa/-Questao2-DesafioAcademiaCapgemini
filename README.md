@@ -4,7 +4,7 @@ A questão foi feita utilizando Java JDK 15.0.2, IDE Eclipse 4.20.0
 
 Foi utilizada a API Java Util Scanner para a entrada de dados, enquanto a saída de dados é feita no próprio console.
 
-Q1. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
+Q2. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
    
 RODAR O PROGRAMA NA IDE E INSERIR A SENHA DESEJADA NO CONSOLE
 
